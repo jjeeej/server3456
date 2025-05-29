@@ -35,3 +35,13 @@
 [09:25:17] [Server thread/INFO]: Done (8.832s)! For help, type "help"
 [09:25:32] [Server thread/INFO]: Set the time to 1000
 [09:27:24] [Server thread/INFO]: No entity was found
+[09:35:33] [Server thread/INFO]: licho[/127.61.208.223:59171] logged in with entity id 28 at (-3.0834632083924998, 63.0, 121.36524939304783)
+[09:35:33] [Server thread/INFO]: licho joined the game
+[09:38:30] [Server thread/INFO]: licho lost connection: Disconnected
+[09:38:30] [Server thread/INFO]: licho left the game
+[09:40:59] [Server thread/INFO]: licho[/127.61.208.223:47909] logged in with entity id 36 at (-3.825772916808707, 63.0, 125.42343345152638)
+[09:40:59] [Server thread/INFO]: licho joined the game
+[09:41:29] [Server thread/INFO]: licho lost connection: Timed out
+[09:41:29] [Server thread/INFO]: licho left the game
+[09:41:42] [Server thread/INFO]: licho[/127.61.208.223:59377] logged in with entity id 44 at (-3.825772916808707, 63.0, 125.42343345152638)
+[09:41:42] [Server thread/INFO]: licho joined the game
