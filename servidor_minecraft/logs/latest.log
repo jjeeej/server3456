@@ -1,5 +1,5 @@
-[20:29:12] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.3
-[20:29:12] [main/INFO]: Loading 44 mods:
+[00:18:19] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.3
+[00:18:19] [main/INFO]: Loading 45 mods:
 	- fabric-api 0.87.2+1.19.4
 	   |-- fabric-api-base 0.4.28+737a6ee8f4
 	   |-- fabric-api-lookup-api-v1 1.6.29+504944c8f4
@@ -54,68 +54,99 @@
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
+	- konkrete 1.6.1
 	- minecraft 1.19.4
 	- plasmovoice 2.1.4
 	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
-[20:29:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:29:12] [main/INFO]: Compatibility level set to JAVA_16
-[20:29:12] [main/INFO]: Compatibility level set to JAVA_17
-[20:29:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:29:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:29:20] [main/INFO]: Loaded 7 recipes
-[20:29:20] [main/INFO]: Loaded 1179 advancements
-[20:29:21] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.381 ms
-[20:29:21] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[20:29:21] [Server thread/INFO]: Loading properties
-[20:29:21] [Server thread/INFO]: Default game type: SURVIVAL
-[20:29:21] [Server thread/INFO]: Generating keypair
-[20:29:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:29:21] [Server thread/INFO]: Using epoll channel type
-[20:29:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:29:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:29:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:29:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:29:21] [Server thread/INFO]: Preparing level "world"
-[20:29:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:29:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:29:28] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[20:29:28] [Server thread/INFO]: Time elapsed: 4507 ms
-[20:29:28] [Server thread/INFO]: Done (7.113s)! For help, type "help"
-[20:29:28] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:22040
-[20:39:03] [Server thread/INFO]: licho[/127.61.208.223:44329] logged in with entity id 27 at (-75.51127213994444, 65.0, 183.59665407341183)
-[20:39:03] [Server thread/INFO]: licho joined the game
-[20:39:33] [Server thread/INFO]: licho lost connection: Timed out
-[20:39:33] [Server thread/INFO]: licho left the game
-[20:39:56] [Server thread/INFO]: licho[/127.61.208.223:50859] logged in with entity id 47 at (-75.51127213994444, 65.0, 183.59665407341183)
-[20:39:56] [Server thread/INFO]: licho joined the game
-[20:40:26] [Server thread/INFO]: licho lost connection: Timed out
-[20:40:26] [Server thread/INFO]: licho left the game
-[20:40:34] [Server thread/INFO]: licho[/127.61.208.223:33531] logged in with entity id 67 at (-75.51127213994444, 65.0, 183.59665407341183)
-[20:40:34] [Server thread/INFO]: licho joined the game
-[20:41:04] [Server thread/INFO]: licho lost connection: Timed out
-[20:41:04] [Server thread/INFO]: licho left the game
-[20:41:18] [Server thread/INFO]: licho[/127.61.208.223:37431] logged in with entity id 87 at (-75.51127213994444, 65.0, 183.59665407341183)
-[20:41:18] [Server thread/INFO]: licho joined the game
-[20:41:49] [Server thread/INFO]: licho lost connection: Timed out
-[20:41:49] [Server thread/INFO]: licho left the game
-[20:48:57] [Server thread/INFO]: licho[/127.61.208.223:44813] logged in with entity id 107 at (-75.51127213994444, 65.0, 183.59665407341183)
-[20:48:57] [Server thread/INFO]: licho joined the game
-[20:52:14] [Server thread/INFO]: Stopping the server
-[20:52:14] [Server thread/INFO]: UDP server is stopped
-[20:52:14] [Server thread/INFO]: Stopping server
-[20:52:14] [Server thread/INFO]: Saving players
-[20:52:14] [Server thread/INFO]: Saving worlds
-[20:52:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:52:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:52:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:18:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:18:19] [main/INFO]: Compatibility level set to JAVA_16
+[00:18:19] [main/INFO]: Compatibility level set to JAVA_17
+[00:18:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:18:26] [main/INFO]: [KONKRETE] Successfully initialized!
+[00:18:26] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[00:18:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:18:28] [main/INFO]: Loaded 7 recipes
+[00:18:28] [main/INFO]: Loaded 1179 advancements
+[00:18:29] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.583 ms
+[00:18:29] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[00:18:29] [Server thread/INFO]: Loading properties
+[00:18:29] [Server thread/INFO]: Default game type: SURVIVAL
+[00:18:29] [Server thread/INFO]: Generating keypair
+[00:18:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:18:29] [Server thread/INFO]: Using epoll channel type
+[00:18:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:18:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:18:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:18:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:18:29] [Server thread/INFO]: Preparing level "world"
+[00:18:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:18:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:18:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:18:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:18:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:18:39] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[00:18:39] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:18:40] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[00:18:40] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[00:18:41] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[00:18:41] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[00:18:42] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[00:18:42] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[00:18:43] [Worker-Main-3/INFO]: Preparing spawn area: 15%
+[00:18:43] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[00:18:44] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[00:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[00:18:45] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[00:18:45] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[00:18:46] [Worker-Main-3/INFO]: Preparing spawn area: 30%
+[00:18:46] [Worker-Main-1/INFO]: Preparing spawn area: 33%
+[00:18:47] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[00:18:47] [Worker-Main-2/INFO]: Preparing spawn area: 37%
+[00:18:48] [Worker-Main-2/INFO]: Preparing spawn area: 41%
+[00:18:48] [Worker-Main-3/INFO]: Preparing spawn area: 43%
+[00:18:49] [Worker-Main-2/INFO]: Preparing spawn area: 45%
+[00:18:49] [Worker-Main-3/INFO]: Preparing spawn area: 47%
+[00:18:50] [Worker-Main-3/INFO]: Preparing spawn area: 52%
+[00:18:50] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[00:18:51] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[00:18:51] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[00:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 62%
+[00:18:52] [Worker-Main-1/INFO]: Preparing spawn area: 68%
+[00:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[00:18:53] [Worker-Main-3/INFO]: Preparing spawn area: 71%
+[00:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[00:18:54] [Worker-Main-1/INFO]: Preparing spawn area: 78%
+[00:18:55] [Worker-Main-1/INFO]: Preparing spawn area: 82%
+[00:18:55] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[00:18:56] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[00:18:56] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[00:18:57] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[00:18:57] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[00:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 99%
+[00:18:58] [Server thread/INFO]: Time elapsed: 26120 ms
+[00:18:58] [Server thread/INFO]: Done (28.892s)! For help, type "help"
+[00:18:58] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[00:19:04] [Server thread/INFO]: zack[/127.61.208.223:57487] logged in with entity id 186 at (5.5, 127.0, -9.5)
+[00:19:04] [Server thread/INFO]: zack joined the game
+[00:19:23] [Server thread/INFO]: Made zack a server operator
+[00:19:40] [Server thread/INFO]: [zack: Set own game mode to Creative Mode]
+[00:20:03] [Server thread/INFO]: [zack: Set the weather to clear]
+[00:20:07] [Server thread/INFO]: [zack: Set the time to 1000]
+[00:22:34] [Server thread/WARN]: zack moved too quickly! -7.9457978444053765,0.8800391385729398,6.538815621514857
+[00:24:49] [Server thread/INFO]: [Not Secure] [Server] title "/tsay tputpitlle ""/tsay t
+[00:25:12] [Server thread/INFO]: [Not Secure] [Server] title "puto"
+[00:25:46] [Server thread/INFO]: [zack: Showing new actionbar title for zack]
+[00:26:50] [Server thread/INFO]: Only players may be affected by this command, but the provided selector includes entities
+[00:26:50] [Server thread/INFO]: title @e actionbar "TESTEO FINS/toirtle actiojnbstar@a e actioknaberar "TESTEO FINAL L/toirtle<--[HERE]
+[00:27:29] [Server thread/INFO]: Only players may be affected by this command, but the provided selector includes entities
+[00:27:29] [Server thread/INFO]: title @e actionbar "TESTEO FINSLI/title @en avction bar "TetlEDTEISTEI O FINALIZA ALIZANDO <--[HERE]
