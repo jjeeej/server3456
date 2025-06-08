@@ -1,5 +1,5 @@
-[01:23:14] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.3
-[01:23:15] [main/INFO]: Loading 45 mods:
+[14:50:36] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.3
+[14:50:36] [main/INFO]: Loading 46 mods:
 	- fabric-api 0.87.2+1.19.4
 	   |-- fabric-api-base 0.4.28+737a6ee8f4
 	   |-- fabric-api-lookup-api-v1 1.6.29+504944c8f4
@@ -55,94 +55,369 @@
 	   \-- mixinextras 0.4.1
 	- java 21
 	- konkrete 1.6.1
+	- lithium 0.11.1
 	- minecraft 1.19.4
 	- plasmovoice 2.1.4
 	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
-[01:23:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:23:15] [main/INFO]: Compatibility level set to JAVA_16
-[01:23:15] [main/INFO]: Compatibility level set to JAVA_17
-[01:23:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:23:22] [main/INFO]: [KONKRETE] Successfully initialized!
-[01:23:22] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[01:23:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:23:24] [main/INFO]: Loaded 7 recipes
-[01:23:24] [main/INFO]: Loaded 1179 advancements
-[01:23:24] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.545 ms
-[01:23:24] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[01:23:24] [Server thread/INFO]: Loading properties
-[01:23:24] [Server thread/INFO]: Default game type: SURVIVAL
-[01:23:24] [Server thread/INFO]: Generating keypair
-[01:23:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:23:24] [Server thread/INFO]: Using epoll channel type
-[01:23:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:23:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:23:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:23:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:23:25] [Server thread/INFO]: Preparing level "world"
-[01:23:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 61%
-[01:23:34] [Server thread/INFO]: Time elapsed: 5243 ms
-[01:23:34] [Server thread/INFO]: Done (9.116s)! For help, type "help"
-[01:23:34] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[01:24:04] [Server thread/INFO]: /127.201.30.200:38739 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:24:26] [Server thread/INFO]: /127.201.30.200:60715 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:25:03] [Server thread/INFO]: Set the time to 1000
-[01:25:33] [Server thread/INFO]: Set the time to 1000
-[01:27:45] [Server thread/INFO]: si[/127.201.30.200:51457] logged in with entity id 27 at (5.5, 127.0, 7.5)
-[01:27:45] [Server thread/INFO]: si joined the game
-[01:29:40] [Server thread/INFO]: [Not Secure] [Server] tirotek/say tiroteo
-[01:30:18] [Server thread/INFO]: si has made the advancement [Stone Age]
-[01:30:45] [Server thread/INFO]: si has made the advancement [Getting an Upgrade]
-[01:31:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:31:48] [Server thread/INFO]: tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /Ctir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLtir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLEtir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLEStir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLESTtir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN<--[HERE]
-[01:32:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:32:48] [Server thread/INFO]: title/title @a a title /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "S/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "SI/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "SIS/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "SIST/title @a a title "s"SISTEMA Ee _ñ"SISTEMA <--[HERE]
-[01:33:51] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[01:33:51] [Server thread/INFO]: ...a title "SISTEMA INFECTADO"<--[HERE]
-[01:34:21] [Server thread/INFO]: Showing new title for si
-[01:34:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:34:33] [Server thread/INFO]: titlen @a title "PUTO"<--[HERE]
-[01:34:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:34:38] [Server thread/INFO]: <--[HERE]
-[01:34:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:34:40] [Server thread/INFO]: titlen @a title "PUTO"<--[HERE]
-[01:34:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:34:42] [Server thread/INFO]: <--[HERE]
-[01:34:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:34:42] [Server thread/INFO]: <--[HERE]
-[01:34:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:34:51] [Server thread/INFO]: SAY PUTO GAEL<--[HERE]
-[01:34:58] [Server thread/INFO]: si lost connection: Disconnected
-[01:34:58] [Server thread/INFO]: si left the game
-[01:35:06] [Server thread/INFO]: si[/127.201.30.200:45153] logged in with entity id 465 at (-213.69999998807907, 69.0, -62.809269651376994)
-[01:35:06] [Server thread/INFO]: si joined the game
-[01:35:48] [Server thread/INFO]: [Not Secure] [Server] #####///###
-[01:36:12] [Server thread/INFO]: [Not Secure] <si> BRO DE VERDAD LA TIENE MIEDO A NEAR
-[01:36:23] [Server thread/WARN]: si moved too quickly! -10.023064461818791,-0.2987031463477763,0.2889450421671427
-[01:36:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:36:29] [Server thread/INFO]: k/kick si por gay<--[HERE]
-[01:36:43] [Server thread/INFO]: Kicked si: "por gay"
-[01:36:43] [Server thread/INFO]: si lost connection: "por gay"
-[01:36:43] [Server thread/INFO]: si left the game
-[01:37:09] [Server thread/INFO]: Stopping the server
-[01:37:09] [Server thread/INFO]: UDP server is stopped
-[01:37:09] [Server thread/INFO]: Stopping server
-[01:37:09] [Server thread/INFO]: Saving players
-[01:37:09] [Server thread/INFO]: Saving worlds
-[01:37:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:37:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:37:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:50:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:50:37] [main/INFO]: Compatibility level set to JAVA_16
+[14:50:37] [main/INFO]: Compatibility level set to JAVA_17
+[14:50:37] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
+[14:50:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:50:47] [main/INFO]: [KONKRETE] Successfully initialized!
+[14:50:47] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[14:50:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:50:49] [main/INFO]: Loaded 7 recipes
+[14:50:50] [main/INFO]: Loaded 1179 advancements
+[14:50:50] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 2.249 ms
+[14:50:50] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[14:50:50] [Server thread/INFO]: Loading properties
+[14:50:50] [Server thread/INFO]: Default game type: SURVIVAL
+[14:50:50] [Server thread/INFO]: Generating keypair
+[14:50:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:50:51] [Server thread/INFO]: Using epoll channel type
+[14:50:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:50:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:50:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:50:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:50:51] [Server thread/INFO]: Preparing level "world"
+[14:50:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:51:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:51:01] [Worker-Main-2/INFO]: Preparing spawn area: 47%
+[14:51:01] [Server thread/INFO]: Time elapsed: 5311 ms
+[14:51:01] [Server thread/INFO]: Done (10.013s)! For help, type "help"
+[14:51:01] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[14:51:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:51:01] [Server thread/INFO]: <--[HERE]
+[14:51:14] [Server thread/INFO]: si[/127.201.30.200:32799] logged in with entity id 29 at (-338.69134559474924, 64.0, -90.41120946987301)
+[14:51:14] [Server thread/INFO]: si joined the game
+[14:51:44] [Server thread/INFO]: Expected float
+[14:51:44] [Server thread/INFO]: time set dsy<--[HERE]
+[14:51:51] [Server thread/INFO]: Set the time to 1000
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: Aquí tienes ejemplos completos de comandos **tellraw** con colores y efectos:<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ## Ejemplos básicos de tellraw<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Mensaje simple con colores:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Múltiples colores en un mensaje:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ## Tellraw con efectos interactivos<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Texto con hover (mostrar texto al pasar el mouse):**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Texto clickeable (ejecuta comando al hacer clic):**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Abrir URL al hacer clic:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ## Tellraw complejos<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Mensaje de bienvenida completo:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Sistema de anuncios:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ## Tellraw para tiendas/menús<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Menú de tienda:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ## Tellraw con formato avanzado<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Mensaje de admin con múltiples efectos:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Sistema de logros:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ## Tellraw para PvP/Eventos<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Anuncio de batalla:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ## Trucos útiles para tellraw<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Texto con salto de línea:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **Colores degradados (simulados):**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: **JSON en una línea vs múltiples líneas:**<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: # Una línea (más fácil de copiar)<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: # Múltiples elementos<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: ```<--[HERE]
+[14:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:34] [Server thread/INFO]: <--[HERE]
+[14:54:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:54:44] [Server thread/INFO]: Todos estos comandos están listos para usar. ¿Te interesa algún tipo específico de mensaje o necesitas ayuda para crear uno personalizado?<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: Aquí tienes ejemplos completos de comandos **tellraw** con colores y efectos:<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: <--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: ## Ejemplos básicos de tellraw<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: <--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: **Mensaje simple con colores:**<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: ```<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: ```<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: <--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: **Múltiples colores en un mensaje:**<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: ```<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: ```<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: <--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: ## Tellraw con efectos interactivos<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: <--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: **Texto con hover (mostrar texto al pasar el mouse):**<--[HERE]
+[14:56:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:04] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Texto clickeable (ejecuta comando al hacer clic):**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Abrir URL al hacer clic:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ## Tellraw complejos<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Mensaje de bienvenida completo:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Sistema de anuncios:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ## Tellraw para tiendas/menús<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Menú de tienda:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ## Tellraw con formato avanzado<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Mensaje de admin con múltiples efectos:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Sistema de logros:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ## Tellraw para PvP/Eventos<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Anuncio de batalla:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ## Trucos útiles para tellraw<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Texto con salto de línea:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **Colores degradados (simulados):**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: **JSON en una línea vs múltiples líneas:**<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: # Una línea (más fácil de copiar)<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: # Múltiples elementos<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: ```<--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: <--[HERE]
+[14:56:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:56:05] [Server thread/INFO]: Todos estos comandos están listos para usar. ¿Te interesa algún tipo específico de mensaje o necesitas ayuda para crear uno personalizado?<--[HERE]
+[14:58:36] [Server thread/INFO]: si lost connection: Disconnected
+[14:58:36] [Server thread/INFO]: si left the game
+[14:58:39] [Server thread/INFO]: Stopping the server
+[14:58:39] [Server thread/INFO]: UDP server is stopped
+[14:58:39] [Server thread/INFO]: Stopping server
+[14:58:39] [Server thread/INFO]: Saving players
+[14:58:39] [Server thread/INFO]: Saving worlds
+[14:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
