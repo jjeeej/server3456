@@ -129,3 +129,44 @@
 [19:22:32] [Server thread/INFO]: Gael left the game
 [19:22:39] [Server thread/INFO]: Gael[/127.201.30.200:47429] logged in with entity id 5206 at (252.9084298549412, 62.55000001192093, 3.7182919273807564)
 [19:22:39] [Server thread/INFO]: Gael joined the game
+[19:22:52] [Server thread/INFO]: Gael was slain by Zombie
+[19:23:07] [Server thread/INFO]: [Not Secure] <licho> diablo
+[19:23:24] [Server thread/INFO]: Gael lost connection: Timed out
+[19:23:24] [Server thread/INFO]: Gael left the game
+[19:23:40] [Server thread/INFO]: Gael[/127.201.30.200:43609] logged in with entity id 5485 at (-1.5, 126.0, 6.5)
+[19:23:40] [Server thread/INFO]: Gael joined the game
+[19:23:45] [Server thread/INFO]: [Not Secure] <licho> 💚💚💚💚💚💚
+[19:23:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=126, z=10}
+[19:23:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=126, z=9}
+[19:23:58] [Server thread/INFO]: Gael was slain by Zombie
+[19:24:00] [Server thread/INFO]: [Not Secure] <licho> 🚷
+[19:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=9, y=127, z=-1}
+[19:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=9, y=127, z=-2}
+[19:24:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=4, y=127, z=-7}
+[19:24:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=4, y=127, z=-8}
+[19:24:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=6, y=127, z=-17} class_2338{x=5, y=127, z=-16}
+[19:25:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=6, y=127, z=-17} class_2338{x=-8, y=127, z=-11}
+[19:25:05] [Server thread/INFO]: Gael was slain by Zombie
+[19:25:06] [Server thread/INFO]: [licho: Set own game mode to Creative Mode]
+[19:25:09] [Server thread/INFO]: Gael lost connection: Disconnected
+[19:25:09] [Server thread/INFO]: Gael left the game
+[19:25:13] [Server thread/INFO]: Gael[/127.201.30.200:40893] logged in with entity id 5758 at (-4.986663878202086, 127.0, -7.660325060946408)
+[19:25:13] [Server thread/INFO]: Gael joined the game
+[19:25:22] [Server thread/INFO]: [Not Secure] <licho> todo bien?
+[19:25:33] [Server thread/INFO]: [licho: Gamerule sendCommandFeedback is now set to: true]
+[19:25:43] [Server thread/INFO]: Gael lost connection: Timed out
+[19:25:43] [Server thread/INFO]: Gael left the game
+[19:25:46] [Server thread/INFO]: [licho: Gamerule sendCommandFeedback is now set to: false]
+[19:26:40] [Server thread/INFO]: [Not Secure] <licho> bro por que te conectas y te desconectas????
+[19:27:17] [Server thread/INFO]: [licho: Gamerule keepInventory is now set to: true]
+[19:27:26] [Server thread/INFO]: [licho: Set own game mode to Survival Mode]
+[19:27:30] [Server thread/INFO]: licho fell from a high place
+[19:27:32] [Server thread/INFO]: Gael[/127.201.30.200:45117] logged in with entity id 5974 at (-4.986663878202086, 127.0, -7.660325060946408)
+[19:27:32] [Server thread/INFO]: Gael joined the game
+[19:27:37] [Server thread/INFO]: [licho: Gamerule keepInventory is now set to: false]
+[19:27:39] [Server thread/INFO]: [licho: Set own game mode to Creative Mode]
+[19:27:56] [Server thread/INFO]: [Not Secure] <licho> bro por que te conectas y te desconectas????
+[19:27:59] [Server thread/INFO]: Gael fell from a high place
+[19:28:02] [Server thread/INFO]: Gael lost connection: Timed out
+[19:28:02] [Server thread/INFO]: Gael left the game
+[19:28:42] [Server thread/INFO]: [licho: Set the time to 1000]
