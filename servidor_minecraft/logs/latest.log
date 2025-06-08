@@ -107,3 +107,42 @@
 [01:31:48] [Server thread/INFO]: tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /Ctir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLtir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLEtir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLEStir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA tir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN DE SISTEMA /CLESTtir/ititle @a/title @a /title @a actitle "SISTEMAB "INFECCIÓN<--[HERE]
 [01:32:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [01:32:48] [Server thread/INFO]: title/title @a a title /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "S/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "SI/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "SIS/title @a a title "s"SISTEMA Ee _ñ"SISTEMA /title @a a title "s"SISTEMA Ee _ñ"SISTEMA "SIST/title @a a title "s"SISTEMA Ee _ñ"SISTEMA <--[HERE]
+[01:33:51] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[01:33:51] [Server thread/INFO]: ...a title "SISTEMA INFECTADO"<--[HERE]
+[01:34:21] [Server thread/INFO]: Showing new title for si
+[01:34:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:34:33] [Server thread/INFO]: titlen @a title "PUTO"<--[HERE]
+[01:34:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:34:38] [Server thread/INFO]: <--[HERE]
+[01:34:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:34:40] [Server thread/INFO]: titlen @a title "PUTO"<--[HERE]
+[01:34:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:34:42] [Server thread/INFO]: <--[HERE]
+[01:34:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:34:42] [Server thread/INFO]: <--[HERE]
+[01:34:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:34:51] [Server thread/INFO]: SAY PUTO GAEL<--[HERE]
+[01:34:58] [Server thread/INFO]: si lost connection: Disconnected
+[01:34:58] [Server thread/INFO]: si left the game
+[01:35:06] [Server thread/INFO]: si[/127.201.30.200:45153] logged in with entity id 465 at (-213.69999998807907, 69.0, -62.809269651376994)
+[01:35:06] [Server thread/INFO]: si joined the game
+[01:35:48] [Server thread/INFO]: [Not Secure] [Server] #####///###
+[01:36:12] [Server thread/INFO]: [Not Secure] <si> BRO DE VERDAD LA TIENE MIEDO A NEAR
+[01:36:23] [Server thread/WARN]: si moved too quickly! -10.023064461818791,-0.2987031463477763,0.2889450421671427
+[01:36:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:36:29] [Server thread/INFO]: k/kick si por gay<--[HERE]
+[01:36:43] [Server thread/INFO]: Kicked si: "por gay"
+[01:36:43] [Server thread/INFO]: si lost connection: "por gay"
+[01:36:43] [Server thread/INFO]: si left the game
+[01:37:09] [Server thread/INFO]: Stopping the server
+[01:37:09] [Server thread/INFO]: UDP server is stopped
+[01:37:09] [Server thread/INFO]: Stopping server
+[01:37:09] [Server thread/INFO]: Saving players
+[01:37:09] [Server thread/INFO]: Saving worlds
+[01:37:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:37:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:37:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
