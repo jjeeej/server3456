@@ -100,3 +100,17 @@
 [01:03:09] [Server thread/INFO]: licho joined the game
 [01:05:59] [Server thread/INFO]: licho lost connection: Disconnected
 [01:05:59] [Server thread/INFO]: licho left the game
+[01:09:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:09:00] [Server thread/INFO]: <--[HERE]
+[01:09:04] [Server thread/INFO]: Stopping the server
+[01:09:04] [Server thread/INFO]: UDP server is stopped
+[01:09:04] [Server thread/INFO]: Stopping server
+[01:09:04] [Server thread/INFO]: Saving players
+[01:09:04] [Server thread/INFO]: Saving worlds
+[01:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:09:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
