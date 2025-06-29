@@ -1,288 +1,204 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1751171344681 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1751235315102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171347775 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235318191 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171350873 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235321284 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171353964 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235324377 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171357063 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235327471 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171360158 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235330568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171363256 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235333680 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171366352 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235336772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171369443 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235339862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171372539 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235342953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171375638 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235346044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171378728 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235349135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171381822 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235352245 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171384920 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235355340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171388009 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235358433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171391099 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235361526 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171394202 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235364620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171397290 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235367717 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171400379 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235370811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171403472 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235373911 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171406559 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235377020 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171409647 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235380120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171412736 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235383218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171415831 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235386314 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171418922 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235389407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171422018 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235392498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171425111 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235395600 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171428220 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235398691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171431310 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235401795 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171434402 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235404892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171437500 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235407988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171440588 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235411083 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171443678 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235414183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171446770 tunnel running, 2 tunnels registered
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1751235417277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171449859 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171452949 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171456044 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171459134 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171462227 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171465319 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171468411 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171471503 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171474598 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171477691 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171480787 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171483879 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171486981 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751171490072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-properties-tennessee.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+approach-steven.gl.at.ply.gg:1245 => 127.0.0.1:1245 (proto: Udp, port count: 1)

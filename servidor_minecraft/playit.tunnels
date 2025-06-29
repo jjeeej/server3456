@@ -61,7 +61,7 @@
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "0d928174-3e42-4aa9-bf49-cf49fcfe24fc",
+          "id": "851c04db-12be-4297-9a6b-a7fd1470d6c8",
           "ip_hostname": "28.ip.gl.ply.gg",
           "ip_type": "both",
           "port_end": 1246,
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-06-29T04:19:53.826291Z",
+      "created_at": "2025-06-29T21:53:08.127073Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "45e8b7a0-6dfe-463b-acb8-9ed7feade3ac",
+      "id": "9f06a43b-a329-47a0-94e9-149c26450b22",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "f1caeac5-a1d6-48eb-82d0-835080063725",
           "agent_name": "from-key-a827",
           "local_ip": "127.0.0.1",
-          "local_port": 24454
+          "local_port": 1245
         },
         "type": "agent"
       },
