@@ -138,3 +138,11 @@
 [15:03:40] [Server thread/INFO]: licho fell out of the world
 [15:03:40] [Server thread/INFO]: [licho: Killed licho]
 [15:04:15] [Server thread/INFO]: [licho: Killed 10 entities]
+[15:17:21] [Server thread/INFO]: [licho: Summoned new Texto Aqui]
+[15:18:01] [Server thread/INFO]: [licho: Summoned new Texto Aqui]
+[15:18:27] [Server thread/INFO]: Named entity class_7260['Texto Aqui'/2777, l='ServerLevel[world]', x=83.35, y=129.00, z=-2.62] died: Texto Aqui didn't want to live in the same world as licho
+[15:18:27] [Server thread/INFO]: [licho: Killed Texto Aqui]
+[15:18:52] [Server thread/INFO]: [licho: Killed Texto Aqui]
+[15:20:04] [Server thread/INFO]: [licho: Summoned new █ TEXTO █]
+[15:20:15] [Server thread/INFO]: [licho: Set the time to 1000]
+[15:20:39] [Server thread/INFO]: [licho: Killed █ TEXTO █]
