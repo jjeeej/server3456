@@ -1,12 +1,12 @@
-[15:00:54] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.3
-[15:00:55] [main/WARN]: Warnings were found!
+[21:59:17] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.3
+[21:59:17] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.7+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.7+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.7+mod recommends any version of midnightlib, which is missing!
 	 - You should install any version of midnightlib for the optimal experience.
-[15:00:55] [main/INFO]: Loading 55 mods:
+[21:59:17] [main/INFO]: Loading 58 mods:
 	- dynamiclights 1.8.7+mod
 	- fabric-api 0.87.2+1.19.4
 	   |-- fabric-api-base 0.4.28+737a6ee8f4
@@ -62,6 +62,8 @@
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- ferritecore 5.2.0
+	- geckolib 4.2
+	   \-- com_eliotlash_mclib_mclib 20
 	- java 21
 	- konkrete 1.6.1
 	- krypton 0.2.2
@@ -74,124 +76,500 @@
 	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
 	   \-- placeholder-api 2.1.0+1.19.4
 	- starlight 1.1.1+fabric.ae22326
+	- tutorialmod 1.0.0
 	- voicechat 1.19.4-2.5.12
 	   \-- fabric-key-binding-api-v1 1.0.32+c477957ed8
-[15:00:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:00:55] [main/INFO]: Compatibility level set to JAVA_16
-[15:00:55] [main/INFO]: Compatibility level set to JAVA_17
-[15:00:55] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 3 override(s) found
-[15:00:55] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[15:00:55] [main/WARN]: Force-disabling mixin 'alloc.chunk_ticking.ServerChunkManagerMixin' as rule 'mixin.alloc.chunk_ticking' (added by mods [servercore]) disables it and children
-[15:00:55] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[15:00:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15:01:02] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[15:01:02] [main/INFO]: [KONKRETE] Successfully initialized!
-[15:01:02] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[15:01:02] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[15:01:02] [main/INFO]: [ServerCore] Loaded V1.3.5+1.19.4!
-[15:01:02] [main/INFO]: [voicechat] Compatibility version 18
-[15:01:02] [main/INFO]: [voicechat] Loading plugins
-[15:01:02] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[15:01:02] [main/INFO]: [voicechat] Initializing plugins
-[15:01:02] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[15:01:02] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[15:01:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:01:03] [main/INFO]: Loaded 7 recipes
-[15:01:04] [main/INFO]: Loaded 1181 advancements
-[15:01:04] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.447 ms
-[15:01:04] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[15:01:04] [Server thread/INFO]: Loading properties
-[15:01:04] [Server thread/INFO]: Default game type: SURVIVAL
-[15:01:04] [Server thread/INFO]: Generating keypair
-[15:01:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:01:04] [Server thread/INFO]: Using epoll channel type
-[15:01:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:01:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:01:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:01:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:01:04] [Server thread/INFO]: Preparing level "world"
-[15:01:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:01:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:01:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:01:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:01:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:01:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:01:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:01:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:01:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:01:11] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[15:01:12] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[15:01:12] [Server thread/INFO]: Time elapsed: 4649 ms
-[15:01:12] [Server thread/INFO]: Done (7.276s)! For help, type "help"
-[15:01:12] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[15:01:12] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'approach-steven.gl.at.ply.gg:1245'
-[15:01:12] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1245
-[15:01:57] [Server thread/INFO]: licho[/127.232.198.136:35363] logged in with entity id 164 at (80.3008440137851, 127.0, -0.07011512782867554)
-[15:01:57] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[15:01:57] [Server thread/INFO]: licho joined the game
-[15:01:58] [Server thread/INFO]: [voicechat] Received secret request of licho (18)
-[15:01:58] [Server thread/INFO]: [voicechat] Sent secret to licho
-[15:02:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f4896f46-78e9-3fb6-b00d-3afc7db29f90
-[15:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f4896f46-78e9-3fb6-b00d-3afc7db29f90
-[15:02:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player licho (f4896f46-78e9-3fb6-b00d-3afc7db29f90) successfully connected to voice chat
-[15:02:44] [Server thread/WARN]: licho moved too quickly! -3.9535230414228266,-2.0306216531750323,9.89050201483559
-[15:03:40] [Server thread/INFO]: licho fell out of the world
-[15:03:40] [Server thread/INFO]: [licho: Killed licho]
-[15:04:15] [Server thread/INFO]: [licho: Killed 10 entities]
-[15:17:21] [Server thread/INFO]: [licho: Summoned new Texto Aqui]
-[15:18:01] [Server thread/INFO]: [licho: Summoned new Texto Aqui]
-[15:18:27] [Server thread/INFO]: Named entity class_7260['Texto Aqui'/2777, l='ServerLevel[world]', x=83.35, y=129.00, z=-2.62] died: Texto Aqui didn't want to live in the same world as licho
-[15:18:27] [Server thread/INFO]: [licho: Killed Texto Aqui]
-[15:18:52] [Server thread/INFO]: [licho: Killed Texto Aqui]
-[15:20:04] [Server thread/INFO]: [licho: Summoned new █ TEXTO █]
-[15:20:15] [Server thread/INFO]: [licho: Set the time to 1000]
-[15:20:39] [Server thread/INFO]: [licho: Killed █ TEXTO █]
-[15:21:05] [Server thread/INFO]: [licho: Created new objective [Tu Texto Grande]]
-[15:21:14] [Server thread/INFO]: [licho: Set display slot sidebar to show objective Tu Texto Grande]
-[15:22:43] [Server thread/INFO]: [licho: Created new objective [ES UN TEST]]
-[15:22:52] [Server thread/INFO]: [licho: Set display slot sidebar to show objective ES UN TEST]
-[15:23:22] [Server thread/INFO]: [licho: Set [ES UN TEST] for "Línea" to 10]
-[15:23:32] [Server thread/INFO]: [licho: Set [ES UN TEST] for "Línea" to 0]
-[15:24:39] [Server thread/INFO]: [licho: Set [ES UN TEST] for "⚠" to 1]
-[15:25:12] [Server thread/INFO]: [licho: Removed 0 from [ES UN TEST] for licho (now 0)]
-[15:25:23] [Server thread/INFO]: [licho: Removed objective [ES UN TEST]]
-[15:25:49] [Server thread/INFO]: [licho: Created new objective []]
-[15:26:07] [Server thread/INFO]: [licho: Set [] for "⚠" to 1]
-[15:26:16] [Server thread/INFO]: [licho: Set display slot sidebar to show objective ]
-[15:26:31] [Server thread/INFO]: [licho: Set [] for "⚠TEST⚠" to 1]
-[15:27:17] [Server thread/INFO]: [licho: Removed objective []]
-[15:29:29] [Server thread/INFO]: [licho: Created new objective [6l⚠TEST⚠]]
-[15:29:38] [Server thread/INFO]: [licho: Set display slot sidebar to show objective 6l⚠TEST⚠]
-[15:30:34] [Server thread/INFO]: [licho: Set [6l⚠TEST⚠] for "Jugadores:15" to 10]
-[15:30:50] [Server thread/INFO]: [licho: Set [6l⚠TEST⚠] for "r" to 9]
-[15:31:29] [Server thread/INFO]: [licho: Set [6l⚠TEST⚠] for "bModo:Survival" to 8]
-[15:31:45] [Server thread/INFO]: [licho: Set [6l⚠TEST⚠] for "cPing:25ms" to 7]
-[15:31:56] [Server thread/INFO]: [licho: Cleared any objectives in display slot sidebar]
-[15:32:20] [Server thread/INFO]: [licho: Created new objective [⚠TEST⚠]]
-[15:32:30] [Server thread/INFO]: [licho: Set display slot sidebar to show objective ⚠TEST⚠]
-[15:32:44] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for "" to 10]
-[15:33:00] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for "" to 0]
-[15:33:57] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for "" to -1]
-[15:34:01] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for "" to -10]
-[15:34:44] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for "" to 0]
-[15:35:22] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠ to 1]
-[15:35:26] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠ to 1]
-[15:35:29] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠ to 2]
-[15:35:35] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠1 to 2]
-[15:35:40] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠2 to 2]
-[15:35:46] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠4 to 2]
-[15:35:50] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠3 to 2]
-[15:35:53] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠3 to 1]
-[15:35:59] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST⚠9 to 10]
-[15:36:09] [Server thread/INFO]: [licho: Set [⚠TEST⚠] for ⚠TEST10 to 10]
-[15:36:31] [Server thread/INFO]: [licho: Cleared any objectives in display slot sidebar]
-[15:36:37] [Server thread/INFO]: [licho: Set display slot sidebar to show objective ⚠TEST⚠]
-[15:36:42] [Server thread/INFO]: [licho: Cleared any objectives in display slot sidebar]
-[15:36:51] [Server thread/INFO]: [licho: Removed objective [⚠TEST⚠]]
-[15:36:55] [Server thread/INFO]: [licho: Removed objective [6l⚠TEST⚠]]
-[15:48:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player f4896f46-78e9-3fb6-b00d-3afc7db29f90 timed out
-[15:48:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player licho
-[15:48:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to licho
-[15:48:14] [Server thread/INFO]: licho lost connection: Timed out
-[15:48:14] [Server thread/INFO]: licho left the game
-[15:48:14] [Server thread/INFO]: [voicechat] Disconnecting client licho
+[21:59:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:59:18] [main/INFO]: Compatibility level set to JAVA_16
+[21:59:18] [main/INFO]: Compatibility level set to JAVA_17
+[21:59:18] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 3 override(s) found
+[21:59:18] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[21:59:18] [main/WARN]: Force-disabling mixin 'alloc.chunk_ticking.ServerChunkManagerMixin' as rule 'mixin.alloc.chunk_ticking' (added by mods [servercore]) disables it and children
+[21:59:18] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[21:59:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:59:24] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[21:59:24] [main/INFO]: [KONKRETE] Successfully initialized!
+[21:59:24] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[21:59:24] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[21:59:24] [main/INFO]: [ServerCore] Loaded V1.3.5+1.19.4!
+[21:59:25] [main/INFO]: Mod initialized!
+[21:59:25] [main/INFO]: [voicechat] Compatibility version 18
+[21:59:25] [main/INFO]: [voicechat] Loading plugins
+[21:59:25] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:59:25] [main/INFO]: [voicechat] Initializing plugins
+[21:59:25] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:59:25] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[21:59:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:59:25] [main/WARN]: Missing data pack mod:forge
+[21:59:25] [main/INFO]: Found new data pack fabric, loading it automatically
+[21:59:26] [main/INFO]: Loaded 7 recipes
+[21:59:26] [main/INFO]: Loaded 1181 advancements
+[21:59:27] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.141 ms
+[21:59:27] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[21:59:27] [Server thread/INFO]: Loading properties
+[21:59:27] [Server thread/INFO]: Default game type: SURVIVAL
+[21:59:27] [Server thread/INFO]: Generating keypair
+[21:59:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:59:28] [Server thread/INFO]: Using epoll channel type
+[21:59:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:59:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:59:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:59:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:59:28] [Server thread/INFO]: Preparing level "world"
+[21:59:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:59:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:59:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:59:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:59:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:59:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:59:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:59:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:59:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:59:47] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[21:59:47] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:59:48] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:48] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:48] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[21:59:49] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:49] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:49] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[21:59:50] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[21:59:50] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[21:59:50] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:50] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:50] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:51] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[21:59:51] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:51] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:51] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:51] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:52] [Worker-Main-3/INFO]: Preparing spawn area: 17%
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:52] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:53] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:53] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:54] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:55] [Worker-Main-2/INFO]: Preparing spawn area: 36%
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:55] [Worker-Main-1/INFO]: Preparing spawn area: 39%
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:55] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:56] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:56] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:56] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:56] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:56] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:56] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:56] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[21:59:56] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[21:59:57] [Worker-Main-2/INFO]: Preparing spawn area: 49%
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:57] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:58] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:58] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:59] [Worker-Main-1/INFO]: Preparing spawn area: 61%
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:59] [Worker-Main-2/INFO]: Preparing spawn area: 64%
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[21:59:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:00] [Worker-Main-3/INFO]: Preparing spawn area: 72%
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Worker-Main-2/INFO]: Preparing spawn area: 75%
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Worker-Main-2/INFO]: Preparing spawn area: 79%
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:02] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[22:00:02] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Worker-Main-1/INFO]: Preparing spawn area: 87%
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:03] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:03] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[22:00:04] [Worker-Main-3/INFO]: Preparing spawn area: 94%
+[22:00:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:04] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:04] [Worker-Main-3/INFO]: Preparing spawn area: 98%
+[22:00:04] [Server thread/INFO]: Time elapsed: 32564 ms
+[22:00:04] [Server thread/INFO]: Done (36.675s)! For help, type "help"
+[22:00:04] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:00:04] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'approach-steven.gl.at.ply.gg:1245'
+[22:00:04] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 1245
+[22:00:28] [Server thread/INFO]: licho[/127.10.158.189:60567] logged in with entity id 163 at (58.5, 63.0, 19.5)
+[22:00:28] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[22:00:28] [Server thread/INFO]: licho joined the game
+[22:00:29] [Server thread/INFO]: [voicechat] Received secret request of licho (18)
+[22:00:29] [Server thread/INFO]: [voicechat] Sent secret to licho
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:29] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:31] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:31] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:31] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:32] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:32] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:32] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:32] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:32] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:32] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f4896f46-78e9-3fb6-b00d-3afc7db29f90
+[22:00:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f4896f46-78e9-3fb6-b00d-3afc7db29f90
+[22:00:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player licho (f4896f46-78e9-3fb6-b00d-3afc7db29f90) successfully connected to voice chat
+[22:00:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:52] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:00:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:04] [Server thread/INFO]: [licho: Set own game mode to Creative Mode]
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:24] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:27] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:27] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:27] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:27] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:27] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:27] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:28] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:34] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:01:35] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:03:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[22:03:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[22:03:05] [Server thread/WARN]: Ignoring unknown attribute 'forge.entity_gravity'
+[22:07:35] [Server thread/INFO]: [licho: Summoned new entity.tutorialmod.tiger]
+[22:07:39] [Server thread/INFO]: [licho: Set own game mode to Survival Mode]
+[22:07:46] [Server thread/INFO]: licho was slain by entity.tutorialmod.tiger
+[22:07:52] [Server thread/INFO]: [licho: Set own game mode to Spectator Mode]
