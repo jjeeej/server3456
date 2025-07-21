@@ -1,9 +1,21 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "in_water": "2025-07-04 22:04:03 +0000"
+      "unlock_right_away": "2025-07-04 22:00:28 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-07-04 22:01:28 +0000",
+      "minecraft:windswept_hills": "2025-07-04 22:01:44 +0000",
+      "minecraft:beach": "2025-07-04 22:08:03 +0000",
+      "minecraft:river": "2025-07-04 22:01:26 +0000",
+      "minecraft:forest": "2025-07-04 22:00:29 +0000",
+      "minecraft:windswept_forest": "2025-07-04 22:03:37 +0000",
+      "minecraft:ocean": "2025-07-04 22:08:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
@@ -23,39 +35,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "unlock_right_away": "2025-07-04 22:00:28 +0000"
+      "has_minecart": "2025-07-04 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-07-04 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-04 22:04:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-04 22:04:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-07-04 22:07:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2025-07-04 22:01:28 +0000",
-      "minecraft:windswept_hills": "2025-07-04 22:01:44 +0000",
-      "minecraft:beach": "2025-07-04 22:08:03 +0000",
-      "minecraft:river": "2025-07-04 22:01:26 +0000",
-      "minecraft:forest": "2025-07-04 22:00:29 +0000",
-      "minecraft:windswept_forest": "2025-07-04 22:03:37 +0000",
-      "minecraft:ocean": "2025-07-04 22:08:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-07-04 22:02:06 +0000"
     },
     "done": true
   },
@@ -89,9 +89,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_minecart": "2025-07-04 22:02:06 +0000"
+      "killed_by_something": "2025-07-04 22:07:46 +0000"
     },
     "done": true
   },
