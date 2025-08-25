@@ -1,5 +1,5 @@
-[00:38:29] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.4
-[00:38:29] [main/INFO]: Loading 43 mods:
+[00:51:22] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.16.4
+[00:51:23] [main/INFO]: Loading 43 mods:
 	- fabric-api 0.87.2+1.19.4
 	   |-- fabric-api-base 0.4.28+737a6ee8f4
 	   |-- fabric-api-lookup-api-v1 1.6.29+504944c8f4
@@ -56,57 +56,52 @@
 	- java 17
 	- laser_tag 1.0.0
 	- minecraft 1.19.4
-[00:38:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:38:29] [main/INFO]: Compatibility level set to JAVA_16
-[00:38:29] [main/INFO]: Compatibility level set to JAVA_17
-[00:38:30] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:38:36] [main/INFO]: [STDOUT]: Registrando sonidos para tutorialmod
-[00:38:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:logs as it is missing following references: tutorialmod:red_maple_log (from fabric), tutorialmod:red_maple_wood (from fabric), tutorialmod:stripped_red_maple_log (from fabric), tutorialmod:stripped_red_maple_wood (from fabric)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:lava_pool_stone_cannot_replace as it is missing following references: #minecraft:logs (from vanilla)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:parrots_spawnable_on as it is missing following references: #minecraft:logs (from vanilla)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:mineable/pickaxe as it is missing following references: tutorialmod:citrine_ore (from fabric), tutorialmod:citrine_block (from fabric), tutorialmod:deepslate_citrine_ore (from fabric)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:mineable/axe as it is missing following references: #minecraft:logs (from vanilla)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:needs_diamond_tool as it is missing following references: tutorialmod:citrine_block (from fabric)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag fabric:needs_tool_level_4 as it is missing following references: tutorialmod:deepslate_citrine_ore (from fabric)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:completes_find_tree_tutorial as it is missing following references: #minecraft:logs (from vanilla)
-[00:38:37] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:needs_iron_tool as it is missing following references: tutorialmod:citrine_ore (from fabric)
-[00:38:37] [main/INFO]: Loaded 7 recipes
-[00:38:38] [main/INFO]: Loaded 1179 advancements
-[00:38:38] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.898 ms
-[00:38:38] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[00:38:38] [Server thread/INFO]: Loading properties
-[00:38:38] [Server thread/INFO]: Default game type: SURVIVAL
-[00:38:38] [Server thread/INFO]: Generating keypair
-[00:38:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:38:38] [Server thread/INFO]: Using epoll channel type
-[00:38:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:38:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:38:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:38:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:38:39] [Server thread/INFO]: Preparing level "world"
-[00:38:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:38:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:38:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:38:45] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[00:38:46] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[00:38:46] [Server thread/INFO]: Time elapsed: 4836 ms
-[00:38:46] [Server thread/INFO]: Done (7.484s)! For help, type "help"
-[00:39:06] [Server thread/INFO]: licho[/127.61.208.223:49487] logged in with entity id 265 at (-119.951221349026, 73.55321338701523, 31.188834404809274)
-[00:39:06] [Server thread/INFO]: licho joined the game
-[00:39:36] [Server thread/INFO]: licho lost connection: Timed out
-[00:39:36] [Server thread/INFO]: licho left the game
-[00:39:52] [Server thread/INFO]: licho[/127.61.208.223:39615] logged in with entity id 280 at (-119.951221349026, 73.55321338701523, 31.188834404809274)
-[00:39:52] [Server thread/INFO]: licho joined the game
-[00:40:23] [Server thread/INFO]: licho lost connection: Timed out
-[00:40:23] [Server thread/INFO]: licho left the game
-[00:40:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:40:26] [Server thread/INFO]: [A[A[Astop<--[HERE]
-[00:40:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:40:30] [Server thread/INFO]: [A[A<--[HERE]
+[00:51:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server3456/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:51:23] [main/INFO]: Compatibility level set to JAVA_16
+[00:51:23] [main/INFO]: Compatibility level set to JAVA_17
+[00:51:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:51:30] [main/INFO]: [STDOUT]: Registrando sonidos para tutorialmod
+[00:51:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:logs as it is missing following references: tutorialmod:red_maple_log (from fabric), tutorialmod:red_maple_wood (from fabric), tutorialmod:stripped_red_maple_log (from fabric), tutorialmod:stripped_red_maple_wood (from fabric)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:lava_pool_stone_cannot_replace as it is missing following references: #minecraft:logs (from vanilla)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:parrots_spawnable_on as it is missing following references: #minecraft:logs (from vanilla)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:mineable/pickaxe as it is missing following references: tutorialmod:citrine_ore (from fabric), tutorialmod:citrine_block (from fabric), tutorialmod:deepslate_citrine_ore (from fabric)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:mineable/axe as it is missing following references: #minecraft:logs (from vanilla)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:needs_diamond_tool as it is missing following references: tutorialmod:citrine_block (from fabric)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag fabric:needs_tool_level_4 as it is missing following references: tutorialmod:deepslate_citrine_ore (from fabric)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:completes_find_tree_tutorial as it is missing following references: #minecraft:logs (from vanilla)
+[00:51:31] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:needs_iron_tool as it is missing following references: tutorialmod:citrine_ore (from fabric)
+[00:51:31] [main/INFO]: Loaded 7 recipes
+[00:51:32] [main/INFO]: Loaded 1179 advancements
+[00:51:32] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.636 ms
+[00:51:32] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[00:51:32] [Server thread/INFO]: Loading properties
+[00:51:32] [Server thread/INFO]: Default game type: SURVIVAL
+[00:51:32] [Server thread/INFO]: Generating keypair
+[00:51:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:51:32] [Server thread/INFO]: Using epoll channel type
+[00:51:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:51:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:51:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:51:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:51:32] [Server thread/INFO]: Preparing level "world"
+[00:51:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:51:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:51:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:51:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:51:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:51:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:51:39] [Worker-Main-3/INFO]: Preparing spawn area: 40%
+[00:51:39] [Server thread/INFO]: Time elapsed: 4548 ms
+[00:51:39] [Server thread/INFO]: Done (7.000s)! For help, type "help"
+[00:51:45] [Server thread/INFO]: licho[/127.61.208.223:54843] logged in with entity id 276 at (-119.951221349026, 73.55321338701523, 31.188834404809274)
+[00:51:45] [Server thread/INFO]: licho joined the game
+[00:52:15] [Server thread/INFO]: licho lost connection: Timed out
+[00:52:15] [Server thread/INFO]: licho left the game
+[00:57:32] [Server thread/INFO]: licho[/127.61.208.223:44731] logged in with entity id 277 at (-119.951221349026, 73.55321338701523, 31.188834404809274)
+[00:57:32] [Server thread/INFO]: licho joined the game
+[00:58:02] [Server thread/INFO]: licho lost connection: Timed out
+[00:58:02] [Server thread/INFO]: licho left the game
